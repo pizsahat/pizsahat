@@ -23,4 +23,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,java,androidstudio,arduino,firebase,figma,git,typescript,mysql,express,bootstrap,tensorflow,pytorch,github,wordpress,windows,notion,docker&perline=10)](https://sherwinvishesh.com)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,java,androidstudio,arduino,firebase,figma,git,typescript,mysql,express,bootstrap,tensorflow,pytorch,github,wordpress,windows,notion,docker&perline=10)](https://www.linkedin.com/in/paslian-sahat-rafael-417361244.com)
